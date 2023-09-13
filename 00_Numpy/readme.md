@@ -1,7 +1,7 @@
 # Numpy Refresher
 
 
-## let's break this code down into a simple story:
+## let's break the IMAGE GENERATION code down into a simple story:
 
 Once upon a time, there was a magical code that could create tables of pictures. 
 It did this by using a special machine called a "generator." 
