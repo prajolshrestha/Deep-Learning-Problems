@@ -1,3 +1,5 @@
-Classification of Solar cells.
-a. Cracks
-b. Inactive regions
+# Classification of Solar cells.
+
+Classes/labels
+- Cracks
+- Inactive regions
