@@ -1,15 +1,13 @@
 # Deep-Learning-Exercise
 
-# Only using Numpy. Use of Pytorch library is not allowed till exercise 03.
+- 00 Numpy Tutorial 
 
-00 Numpy Tutorial
+- 01 ANN (Only using Numpy)
 
-01 ANN
+- 02 CNN (Only using Numpy)
 
-02 CNN
+- 03 RNN (Only using Numpy)
 
-03 RNN
+- 04 Pytorch - Classification
 
-04 Pytorch - Classification
-
-05 Pytorch - Regression
+- 05 Pytorch - Regression
