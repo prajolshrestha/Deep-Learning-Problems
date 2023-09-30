@@ -11,3 +11,5 @@
 - 04 Pytorch - Classification
 
 - 05 Pytorch - Regression
+
+- 06 Transformer - Monocular Depth Estimation
