@@ -1,4 +1,4 @@
-# Deep-Learning-Exercise
+# Deep-Learning-Problems
 
 - 00 Numpy Tutorial 
 
