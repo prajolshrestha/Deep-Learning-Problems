@@ -8,12 +8,12 @@
 
 - 03 RNN (Only using Numpy)
 
-- 04 Pytorch - Classification
+- 04 Pytorch - Classification (basics)
 
-- 05 Pytorch - Regression
+- 05 Pytorch - Regression (basics)
 
-- 06 Transformer - Monocular Depth Estimation
+- 06 Transformer - Monocular Depth Estimation (using pre-trained model)
 
-- 07 Transformer - Translation using Attention Mechanism
+- 07 Transformer - Translation using Attention Mechanism (from scratch)
 
-- 08 Transformer - Stable Duffision using Attention Mechanism [Running....]
+- 08 Transformer - Stable Duffision using Attention Mechanism [Running....] (from scratch)
