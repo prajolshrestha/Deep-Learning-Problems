@@ -8,7 +8,7 @@
 
 - 03 RNN (Only using Numpy)
 
-- 04 Pytorch - Classification (basics)
+- 04 Pytorch - Classification (Resnet model from scratch)
 
 - 05 Pytorch - Regression (basics)
 
