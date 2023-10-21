@@ -13,3 +13,7 @@
 - 05 Pytorch - Regression
 
 - 06 Transformer - Monocular Depth Estimation
+
+- 07 Transformer - Translation using Attention Mechanism
+
+- 08 Transformer - Stable Duffision using Attention Mechanism [Running....]
