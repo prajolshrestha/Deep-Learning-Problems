@@ -12,7 +12,7 @@
 
 - 05 Pytorch - Regression (basics)
 
-- 06 Transformer - Monocular Depth Estimation (using pre-trained model)
+- 06 Transformer - Monocular Depth Estimation (using transformer library and pre-trained model)
 
 - 07 Transformer - Translation using Attention Mechanism (from scratch)
 
