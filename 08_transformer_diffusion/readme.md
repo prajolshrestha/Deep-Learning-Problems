@@ -5,7 +5,7 @@
 - Self Attention & Cross Attention
 - UNET
 - CLIP (Contrastive language Image Pretraining)
-- Scheduler
+- DDPM Sampler
 
 ## Requirements
 <html>
