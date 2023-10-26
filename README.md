@@ -16,4 +16,6 @@
 
 - 07 Transformer - Translation using Attention Mechanism (from scratch)
 
-- 08 Transformer - Stable Duffision using Attention Mechanism [Running....] (from scratch)
+- 08 Transformer - Stable Duffision using Attention Mechanism (from scratch but pre-trained model weights used for inference)
+
+- 09 
