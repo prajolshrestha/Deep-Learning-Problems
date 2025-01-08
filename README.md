@@ -1,5 +1,6 @@
 # Deep-Learning-Problems
 
+# Basics
 - 00 Numpy Tutorial 
 
 - 01 ANN (Only using Numpy)
@@ -12,10 +13,12 @@
 
 - 05 Pytorch - Regression (basics)
 
-- 06 Transformer - Monocular Depth Estimation (using transformer library and pre-trained model)
+# Transformer-based Models
 
-- 07 Transformer - Translation using Attention Mechanism (from scratch)
+- 01 Monocular Depth Estimation (using transformer library and pre-trained model)
 
-- 08 Transformer - Stable Duffision using Attention Mechanism (from scratch but pre-trained model weights used for inference)
+- 02 Translation using Attention Mechanism (from scratch)
 
-- 09 Transformer - Segment Anything Model (working....)
+- 03 Stable Duffision using Attention Mechanism (from scratch but pre-trained model weights used for inference)
+
+- 04 Paligemma from scratch (working ...)
